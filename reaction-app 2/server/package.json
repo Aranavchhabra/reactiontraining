@@ -1,0 +1,19 @@
+{
+  "name": "reaction-duel-server",
+  "version": "1.0.0",
+  "description": "Real-time multiplayer reaction-time duel server built with Colyseus",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "colyseus": "^0.16.1",
+    "colyseus.js": "^0.16.22",
+    "express": "^4.22.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
