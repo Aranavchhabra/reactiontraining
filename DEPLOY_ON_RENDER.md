@@ -1,4 +1,4 @@
-# Deploying to Render (Free Tier) — Step by Step
+# Deploying to Render (Step by Step)
 
 This puts your server on the public internet so friends can join from
 their own homes/data, not just your wifi. Total time: ~10 minutes,
